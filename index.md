@@ -1,4 +1,6 @@
 # Mingjing's Programming Portfolio 2021
+Type a bio. [Mingjing Huang](mailto:mingjingviolet@gmail.com)
+
 
 ## Processing Projects
 
