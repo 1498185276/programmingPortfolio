@@ -15,8 +15,16 @@ Source code for project [here](https://github.com/1498185276/programmingPortfoli
 
 ### Calculator
 
-An OOP application made in Processing winter 2020.
+An OOP application that carries out mathmatical calculations made in Processing winter 2020.
 
 ![Calculator](https://github.com/1498185276/programmingPortfolio/blob/gh-pages/images/Calculator.JPG?raw=true)
 
 Source code for project [here](https://github.com/1498185276/programmingPortfolio/tree/gh-pages/src/Calculator). A Windows executable can be downloaded [here](https://github.com/1498185276/programmingPortfolio/blob/gh-pages/src/Calculator/application.windows64.zip).
+
+### ConverterApp
+
+An OOP application that demonstrates return type using the conversion between Celcius and Farenheit made in Processing winter 2020.
+
+![ConverterApp](https://github.com/1498185276/programmingPortfolio/blob/gh-pages/images/ConverterApp.JPG?raw=true)
+
+Source code for project [here](https://github.com/1498185276/programmingPortfolio/tree/gh-pages/src/ConverterApp). A Windows executable can be downloaded [here](https://github.com/1498185276/programmingPortfolio/blob/gh-pages/src/ConverterApp/application.windows64.zip).
