@@ -36,3 +36,12 @@ An OOP application that demonstrates mousePressed and keyPressed method to draw 
 ![etchASketch](https://github.com/1498185276/programmingPortfolio/blob/gh-pages/images/etchASketch.JPG?raw=true)
 
 Source code for project [here](https://github.com/1498185276/programmingPortfolio/tree/gh-pages/src/etchASketch). A Windows executable can be downloaded [here](https://github.com/1498185276/programmingPortfolio/blob/gh-pages/src/etchASketch/application.windows64.zip).
+
+### ComputerTimeline
+
+An OOP application that demonstrates the development of computer in a timeline using methods about text made in Processing autumn 2020.
+
+![ComputerTimeline](https://github.com/1498185276/programmingPortfolio/blob/gh-pages/images/ComputerTimeline.JPG?raw=true)
+
+Source code for project [here](https://github.com/1498185276/programmingPortfolio/tree/gh-pages/src/ComputerTimeline). A Windows executable can be downloaded [here](https://github.com/1498185276/programmingPortfolio/blob/gh-pages/src/ComputerTimeline/application.windows64.zip).
+
