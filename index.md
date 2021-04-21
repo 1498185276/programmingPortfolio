@@ -1,6 +1,5 @@
 # Mingjing's Programming Portfolio 2021
-Type a bio. [Mingjing Huang](mailto:mingjingviolet@gmail.com)
-
+My name is Mingjing, and I'm taking Programming I for my 2020-2021 high school year at Skyline High. I have earned the state CTE test for programming I. My language selected is java. [Mingjing Huang](mailto:mingjingviolet@gmail.com)
 
 ## Processing Projects
 
@@ -9,6 +8,8 @@ Type a bio. [Mingjing Huang](mailto:mingjingviolet@gmail.com)
 An OOP Space shooter game made in Processing winter 2020.
 
 ![SpaceGame](https://github.com/1498185276/programmingPortfolio/blob/gh-pages/images/SpaceGame.JPG?raw=true)
+
+![SpaceGame](https://github.com/1498185276/programmingPortfolio/blob/gh-pages/images/SpaceGameUML.JPG)
 
 Source code for project [here](https://github.com/1498185276/programmingPortfolio/tree/gh-pages/src/SpaceGame).
 
