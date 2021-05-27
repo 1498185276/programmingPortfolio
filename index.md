@@ -45,7 +45,7 @@ An OOP application that demonstrates the development of computer in a timeline u
 
 Source code for project [here](https://github.com/1498185276/programmingPortfolio/tree/gh-pages/src/ComputerTimeline). A Windows executable can be downloaded [here](https://github.com/1498185276/programmingPortfolio/blob/gh-pages/src/ComputerTimeline/application.windows64.zip).
 
-# Money Catching Game
+# Money Catching Game (Final Project)
 
 An OOP Money Carching Game where the user controls the movement of the figure through mouse to avoid collision with cars and motorcycles while collecing as many money falling from the sky as possible.
 
